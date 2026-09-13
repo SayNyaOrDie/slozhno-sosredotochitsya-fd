@@ -40,3 +40,19 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
+
+button {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-inline-size: 100%;
+}
